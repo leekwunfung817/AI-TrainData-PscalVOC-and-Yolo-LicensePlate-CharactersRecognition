@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<annotation>
+		<folder></folder>
+		<filename>17_51_o_m_4042242629_GX__License Plate.jpg</filename>
+		<source>
+			<database>Unknown</database>
+		</source>
+		<path>17_51_o_m_4042242629_GX__License Plate.jpg</path>
+		<size>
+			<width>510</width>
+			<height>400</height>
+			<depth>3</depth>
+		</size>
+		<object>
+			<name>X</name>
+			<pose>Unspecified</pose>
+			<truncated>0</truncated>
+			<difficult>0</difficult>
+			<bndbox>
+				<xmin>281</xmin>
+				<ymin>120</ymin>
+				<xmax>358</xmax>
+				<ymax>277</ymax>
+			</bndbox>
+		</object>
+		<object>
+			<name>G</name>
+			<pose>Unspecified</pose>
+			<truncated>0</truncated>
+			<difficult>0</difficult>
+			<bndbox>
+				<xmin>206</xmin>
+				<ymin>130</ymin>
+				<xmax>287</xmax>
+				<ymax>285</ymax>
+			</bndbox>
+		</object>
+	</annotation>
