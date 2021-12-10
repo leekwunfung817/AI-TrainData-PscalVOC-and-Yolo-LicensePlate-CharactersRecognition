@@ -1,2 +1,2 @@
 cd %~dp0
-darknet detector train train.config.data yolov4-tiny-custom.cfg
+darknet detector train train.config.data yolov4-tiny-custom.cfg -show_imgs
