@@ -1,76 +1,100 @@
-C:\Users\Ivan Lee\Documents\Software project\Machine learning\AI\CPOS\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/010001f5a16e2f7b4ae0071f8e54a0a2_License Plate.jpg
-C:\Users\Ivan Lee\Documents\Software project\Machine learning\AI\CPOS\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/17_1_i_h_07183313_LicensePlate.jpg
-C:\Users\Ivan Lee\Documents\Software project\Machine learning\AI\CPOS\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/17_1_i_h_14322871_SU9470.jpg
-C:\Users\Ivan Lee\Documents\Software project\Machine learning\AI\CPOS\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/17_1_i_h_33951149_LicensePlate.jpg
-C:\Users\Ivan Lee\Documents\Software project\Machine learning\AI\CPOS\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/17_1_i_h_43559010_TJ6386.jpg
-C:\Users\Ivan Lee\Documents\Software project\Machine learning\AI\CPOS\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/17_1_i_h_67262188_UE1043.jpg
-C:\Users\Ivan Lee\Documents\Software project\Machine learning\AI\CPOS\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/17_1_i_h_71879398_LV2594.jpg
-C:\Users\Ivan Lee\Documents\Software project\Machine learning\AI\CPOS\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/17_1_i_h_78294507_LicensePlate.jpg
-C:\Users\Ivan Lee\Documents\Software project\Machine learning\AI\CPOS\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/17_1_i_h_88883086_DF1689.jpg
-C:\Users\Ivan Lee\Documents\Software project\Machine learning\AI\CPOS\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/17_1_i_h_97084783_VN7594.jpg
-C:\Users\Ivan Lee\Documents\Software project\Machine learning\AI\CPOS\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/17_1_i_m_0104708039_DE3880_DE3880.jpg
-C:\Users\Ivan Lee\Documents\Software project\Machine learning\AI\CPOS\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/17_1_i_m_2767935829_NL2189_LicensePlate.jpg
-C:\Users\Ivan Lee\Documents\Software project\Machine learning\AI\CPOS\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/17_1_i_m_3950350005_TV3537_LicensePlate.jpg
-C:\Users\Ivan Lee\Documents\Software project\Machine learning\AI\CPOS\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/17_51_o_m_2768500613_VP9820_LicensePlate.jpg
-C:\Users\Ivan Lee\Documents\Software project\Machine learning\AI\CPOS\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/17_51_o_m_4040210885_PW4417_LicensePlate.jpg
-C:\Users\Ivan Lee\Documents\Software project\Machine learning\AI\CPOS\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/17_51_o_m_4042501541_UE6643_LicensePlate.jpg
-C:\Users\Ivan Lee\Documents\Software project\Machine learning\AI\CPOS\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/17_51_o_m_4046029253_SY5263_LicensePlate.jpg
-C:\Users\Ivan Lee\Documents\Software project\Machine learning\AI\CPOS\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/17_51_o_m_4048550789_VC8461_LicensePlate.jpg
-C:\Users\Ivan Lee\Documents\Software project\Machine learning\AI\CPOS\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/17_51_o_m_4049648949_VE4216_LicensePlate.jpg
-C:\Users\Ivan Lee\Documents\Software project\Machine learning\AI\CPOS\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/20191114091143_75041900_PS5143.jpg
-C:\Users\Ivan Lee\Documents\Software project\Machine learning\AI\CPOS\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/20200506151639_1904021782_SU3589.jpg
-C:\Users\Ivan Lee\Documents\Software project\Machine learning\AI\CPOS\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/20200618104953_17978785_WL7678.jpg
-C:\Users\Ivan Lee\Documents\Software project\Machine learning\AI\CPOS\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/20200619100629_0561411237_MM4909.jpg
-C:\Users\Ivan Lee\Documents\Software project\Machine learning\AI\CPOS\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/20200619170721_23805367_GE803.jpg
-C:\Users\Ivan Lee\Documents\Software project\Machine learning\AI\CPOS\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/20200620075335_08868264_TM2787.jpg
-C:\Users\Ivan Lee\Documents\Software project\Machine learning\AI\CPOS\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/20200620130625_0944328339_TH6396.jpg
-C:\Users\Ivan Lee\Documents\Software project\Machine learning\AI\CPOS\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/20200624123243_28894176_S_MX4918.jpg
-C:\Users\Ivan Lee\Documents\Software project\Machine learning\AI\CPOS\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/20200727214257_0264902457_W37.jpg
-C:\Users\Ivan Lee\Documents\Software project\Machine learning\AI\CPOS\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/20200728091236_4211395093_S_VW9452.jpg
-C:\Users\Ivan Lee\Documents\Software project\Machine learning\AI\CPOS\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/20200728153844_0263963801_S_VN.jpg
-C:\Users\Ivan Lee\Documents\Software project\Machine learning\AI\CPOS\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/20200728181833_0832042025_S_TJ5964.jpg
-C:\Users\Ivan Lee\Documents\Software project\Machine learning\AI\CPOS\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/20200728225012_0312847241_S_D47.jpg
-C:\Users\Ivan Lee\Documents\Software project\Machine learning\AI\CPOS\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/20200729091739_71277857_S_TM6889.jpg
-C:\Users\Ivan Lee\Documents\Software project\Machine learning\AI\CPOS\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/20200729141250_0460893505_W5257.jpg
-C:\Users\Ivan Lee\Documents\Software project\Machine learning\AI\CPOS\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/20200729184235_0263038489_S_VX1016.jpg
-C:\Users\Ivan Lee\Documents\Software project\Machine learning\AI\CPOS\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/20200729233924_4210844725_S_7818.jpg
-C:\Users\Ivan Lee\Documents\Software project\Machine learning\AI\CPOS\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/20200730103350_4211045685_S_JS1012.jpg
-C:\Users\Ivan Lee\Documents\Software project\Machine learning\AI\CPOS\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/20200730170726_0319908473_S_4052.jpg
-C:\Users\Ivan Lee\Documents\Software project\Machine learning\AI\CPOS\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/20200804003140_0263152809_S_T8.jpg
-C:\Users\Ivan Lee\Documents\Software project\Machine learning\AI\CPOS\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/20200804094003_08159882_S_U4491.jpg
-C:\Users\Ivan Lee\Documents\Software project\Machine learning\AI\CPOS\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/20200804164001_1127267401_S_UH6.jpg
-C:\Users\Ivan Lee\Documents\Software project\Machine learning\AI\CPOS\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/20200804215934_0312847241_S_RD4447.jpg
-C:\Users\Ivan Lee\Documents\Software project\Machine learning\AI\CPOS\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/20200805113932_0267489081_S_RN753.jpg
-C:\Users\Ivan Lee\Documents\Software project\Machine learning\AI\CPOS\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/20200805173311_4211045685_S_JS1012.jpg
-C:\Users\Ivan Lee\Documents\Software project\Machine learning\AI\CPOS\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/20200806073706_0264095033_S_U2.jpg
-C:\Users\Ivan Lee\Documents\Software project\Machine learning\AI\CPOS\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/20200806125527_0832519753_S_WV3548.jpg
-C:\Users\Ivan Lee\Documents\Software project\Machine learning\AI\CPOS\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/20200806175116_0474992034_S_J0.jpg
-C:\Users\Ivan Lee\Documents\Software project\Machine learning\AI\CPOS\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/20200806202616_4211550133_S_NN3108.jpg
-C:\Users\Ivan Lee\Documents\Software project\Machine learning\AI\CPOS\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/20200807082757_05767871_S_76.jpg
-C:\Users\Ivan Lee\Documents\Software project\Machine learning\AI\CPOS\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/20200807134038_0859237619_S_VW2280.jpg
-C:\Users\Ivan Lee\Documents\Software project\Machine learning\AI\CPOS\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/20200807175811_0267387769_S_WK6.jpg
-C:\Users\Ivan Lee\Documents\Software project\Machine learning\AI\CPOS\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/20200807195904_0453654593_WJ.jpg
-C:\Users\Ivan Lee\Documents\Software project\Machine learning\AI\CPOS\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/20200808061901_28019765_S_UZ.jpg
-C:\Users\Ivan Lee\Documents\Software project\Machine learning\AI\CPOS\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/20200808094521_0914487698_S_PC6341.jpg
-C:\Users\Ivan Lee\Documents\Software project\Machine learning\AI\CPOS\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/20200808152509_0314757081_S_TP89.jpg
-C:\Users\Ivan Lee\Documents\Software project\Machine learning\AI\CPOS\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/20200808174956_4211124293_RZ5040.jpg
-C:\Users\Ivan Lee\Documents\Software project\Machine learning\AI\CPOS\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/20200808194916_0267113673_S_KJ6361.jpg
-C:\Users\Ivan Lee\Documents\Software project\Machine learning\AI\CPOS\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/20200809022958_0823946969_S_8144.jpg
-C:\Users\Ivan Lee\Documents\Software project\Machine learning\AI\CPOS\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/20200810074900_0265971433_ER8749.jpg
-C:\Users\Ivan Lee\Documents\Software project\Machine learning\AI\CPOS\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/20200811234152_0864321779_SH8259.jpg
-C:\Users\Ivan Lee\Documents\Software project\Machine learning\AI\CPOS\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/20200813205259_0471340545_KS.jpg
-C:\Users\Ivan Lee\Documents\Software project\Machine learning\AI\CPOS\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/20200815084919_0856856307_G7673.jpg
-C:\Users\Ivan Lee\Documents\Software project\Machine learning\AI\CPOS\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/20200815222718_0442659761_WU64.jpg
-C:\Users\Ivan Lee\Documents\Software project\Machine learning\AI\CPOS\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/20200817074035_71319341_07.jpg
-C:\Users\Ivan Lee\Documents\Software project\Machine learning\AI\CPOS\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/20200818163629_0140327449_RM25.jpg
-C:\Users\Ivan Lee\Documents\Software project\Machine learning\AI\CPOS\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/20200819184054_0262760489_S_RC9419.jpg
-C:\Users\Ivan Lee\Documents\Software project\Machine learning\AI\CPOS\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/20200819213040_0470342354_S_PT8672.jpg
-C:\Users\Ivan Lee\Documents\Software project\Machine learning\AI\CPOS\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/20200820081854_16792669_S_PF2.jpg
-C:\Users\Ivan Lee\Documents\Software project\Machine learning\AI\CPOS\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/20200820150912_0266589049_S_KS2326.jpg
-C:\Users\Ivan Lee\Documents\Software project\Machine learning\AI\CPOS\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/20200820181917_0263114761_S_827.jpg
-C:\Users\Ivan Lee\Documents\Software project\Machine learning\AI\CPOS\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/20200820195202_0267411305_S_RX9079.jpg
-C:\Users\Ivan Lee\Documents\Software project\Machine learning\AI\CPOS\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/20200820224216_0263152809_S_TT8159.jpg
-C:\Users\Ivan Lee\Documents\Software project\Machine learning\AI\CPOS\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/20200822042328_0484844722_22.jpg
-C:\Users\Ivan Lee\Documents\Software project\Machine learning\AI\CPOS\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/20200823121525_4213817125_DE0.jpg
-C:\Users\Ivan Lee\Documents\Software project\Machine learning\AI\CPOS\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/3dd76ab65dfdd3d2f672e1c55e2139a1_License Plate.jpg
-C:\Users\Ivan Lee\Documents\Software project\Machine learning\AI\CPOS\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/922a9e2c4efe7ba78dd5d423dd64ea07_License Plate.jpg
+C:\Users\Ivan Lee\Desktop\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/010001f5a16e2f7b4ae0071f8e54a0a2_License Plate.jpg
+C:\Users\Ivan Lee\Desktop\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/17_1_i_h_07183313_LicensePlate.jpg
+C:\Users\Ivan Lee\Desktop\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/17_1_i_h_14322871_SU9470.jpg
+C:\Users\Ivan Lee\Desktop\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/17_1_i_h_33951149_LicensePlate.jpg
+C:\Users\Ivan Lee\Desktop\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/17_1_i_h_43559010_TJ6386.jpg
+C:\Users\Ivan Lee\Desktop\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/17_1_i_h_67262188_UE1043.jpg
+C:\Users\Ivan Lee\Desktop\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/17_1_i_h_71879398_LV2594.jpg
+C:\Users\Ivan Lee\Desktop\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/17_1_i_h_78294507_LicensePlate.jpg
+C:\Users\Ivan Lee\Desktop\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/17_1_i_h_88883086_DF1689.jpg
+C:\Users\Ivan Lee\Desktop\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/17_1_i_h_97084783_VN7594.jpg
+C:\Users\Ivan Lee\Desktop\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/17_1_i_m_0104708039_DE3880_DE3880.jpg
+C:\Users\Ivan Lee\Desktop\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/17_1_i_m_2767935829_NL2189_LicensePlate.jpg
+C:\Users\Ivan Lee\Desktop\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/17_1_i_m_3950350005_TV3537_LicensePlate.jpg
+C:\Users\Ivan Lee\Desktop\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/17_51_o_m_2768500613_VP9820_LicensePlate.jpg
+C:\Users\Ivan Lee\Desktop\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/17_51_o_m_4040210885_PW4417_LicensePlate.jpg
+C:\Users\Ivan Lee\Desktop\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/17_51_o_m_4042501541_UE6643_LicensePlate.jpg
+C:\Users\Ivan Lee\Desktop\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/17_51_o_m_4046029253_SY5263_LicensePlate.jpg
+C:\Users\Ivan Lee\Desktop\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/17_51_o_m_4048550789_VC8461_LicensePlate.jpg
+C:\Users\Ivan Lee\Desktop\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/17_51_o_m_4049648949_VE4216_LicensePlate.jpg
+C:\Users\Ivan Lee\Desktop\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/20191114091143_75041900_PS5143.jpg
+C:\Users\Ivan Lee\Desktop\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/20200506151639_1904021782_SU3589.jpg
+C:\Users\Ivan Lee\Desktop\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/20200618104953_17978785_WL7678.jpg
+C:\Users\Ivan Lee\Desktop\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/20200619100629_0561411237_MM4909.jpg
+C:\Users\Ivan Lee\Desktop\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/20200619170721_23805367_GE803.jpg
+C:\Users\Ivan Lee\Desktop\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/20200620075335_08868264_TM2787.jpg
+C:\Users\Ivan Lee\Desktop\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/20200620130625_0944328339_TH6396.jpg
+C:\Users\Ivan Lee\Desktop\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/20200624123243_28894176_S_MX4918.jpg
+C:\Users\Ivan Lee\Desktop\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/20200727214257_0264902457_W37.jpg
+C:\Users\Ivan Lee\Desktop\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/20200728091236_4211395093_S_VW9452.jpg
+C:\Users\Ivan Lee\Desktop\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/20200728153844_0263963801_S_VN.jpg
+C:\Users\Ivan Lee\Desktop\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/20200728181833_0832042025_S_TJ5964.jpg
+C:\Users\Ivan Lee\Desktop\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/20200728225012_0312847241_S_D47.jpg
+C:\Users\Ivan Lee\Desktop\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/20200729091739_71277857_S_TM6889.jpg
+C:\Users\Ivan Lee\Desktop\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/20200729141250_0460893505_W5257.jpg
+C:\Users\Ivan Lee\Desktop\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/20200729184235_0263038489_S_VX1016.jpg
+C:\Users\Ivan Lee\Desktop\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/20200729233924_4210844725_S_7818.jpg
+C:\Users\Ivan Lee\Desktop\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/20200730103350_4211045685_S_JS1012.jpg
+C:\Users\Ivan Lee\Desktop\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/20200730170726_0319908473_S_4052.jpg
+C:\Users\Ivan Lee\Desktop\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/20200804003140_0263152809_S_T8.jpg
+C:\Users\Ivan Lee\Desktop\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/20200804094003_08159882_S_U4491.jpg
+C:\Users\Ivan Lee\Desktop\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/20200804164001_1127267401_S_UH6.jpg
+C:\Users\Ivan Lee\Desktop\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/20200804215934_0312847241_S_RD4447.jpg
+C:\Users\Ivan Lee\Desktop\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/20200805113932_0267489081_S_RN753.jpg
+C:\Users\Ivan Lee\Desktop\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/20200805173311_4211045685_S_JS1012.jpg
+C:\Users\Ivan Lee\Desktop\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/20200806073706_0264095033_S_U2.jpg
+C:\Users\Ivan Lee\Desktop\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/20200806125527_0832519753_S_WV3548.jpg
+C:\Users\Ivan Lee\Desktop\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/20200806175116_0474992034_S_J0.jpg
+C:\Users\Ivan Lee\Desktop\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/20200806202616_4211550133_S_NN3108.jpg
+C:\Users\Ivan Lee\Desktop\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/20200807082757_05767871_S_76.jpg
+C:\Users\Ivan Lee\Desktop\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/20200807134038_0859237619_S_VW2280.jpg
+C:\Users\Ivan Lee\Desktop\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/20200807175811_0267387769_S_WK6.jpg
+C:\Users\Ivan Lee\Desktop\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/20200807195904_0453654593_WJ.jpg
+C:\Users\Ivan Lee\Desktop\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/20200808061901_28019765_S_UZ.jpg
+C:\Users\Ivan Lee\Desktop\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/20200808094521_0914487698_S_PC6341.jpg
+C:\Users\Ivan Lee\Desktop\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/20200808152509_0314757081_S_TP89.jpg
+C:\Users\Ivan Lee\Desktop\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/20200808174956_4211124293_RZ5040.jpg
+C:\Users\Ivan Lee\Desktop\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/20200808194916_0267113673_S_KJ6361.jpg
+C:\Users\Ivan Lee\Desktop\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/20200809022958_0823946969_S_8144.jpg
+C:\Users\Ivan Lee\Desktop\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/20200810074900_0265971433_ER8749.jpg
+C:\Users\Ivan Lee\Desktop\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/20200811234152_0864321779_SH8259.jpg
+C:\Users\Ivan Lee\Desktop\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/20200813205259_0471340545_KS.jpg
+C:\Users\Ivan Lee\Desktop\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/20200815084919_0856856307_G7673.jpg
+C:\Users\Ivan Lee\Desktop\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/20200815222718_0442659761_WU64.jpg
+C:\Users\Ivan Lee\Desktop\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/20200817074035_71319341_07.jpg
+C:\Users\Ivan Lee\Desktop\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/20200818163629_0140327449_RM25.jpg
+C:\Users\Ivan Lee\Desktop\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/20200819184054_0262760489_S_RC9419.jpg
+C:\Users\Ivan Lee\Desktop\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/20200819213040_0470342354_S_PT8672.jpg
+C:\Users\Ivan Lee\Desktop\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/20200820081854_16792669_S_PF2.jpg
+C:\Users\Ivan Lee\Desktop\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/20200820150912_0266589049_S_KS2326.jpg
+C:\Users\Ivan Lee\Desktop\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/20200820181917_0263114761_S_827.jpg
+C:\Users\Ivan Lee\Desktop\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/20200820195202_0267411305_S_RX9079.jpg
+C:\Users\Ivan Lee\Desktop\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/20200820224216_0263152809_S_TT8159.jpg
+C:\Users\Ivan Lee\Desktop\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/20200822042328_0484844722_22.jpg
+C:\Users\Ivan Lee\Desktop\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/20200823121525_4213817125_DE0.jpg
+C:\Users\Ivan Lee\Desktop\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/20220801171320_0288444138.jpg
+C:\Users\Ivan Lee\Desktop\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/20221101064716_0270281704.jpg
+C:\Users\Ivan Lee\Desktop\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/20221103120420_0296707578.jpg
+C:\Users\Ivan Lee\Desktop\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/20221103132437_0294745562.jpg
+C:\Users\Ivan Lee\Desktop\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/20221103142941_0292135402.jpg
+C:\Users\Ivan Lee\Desktop\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/20221103152723_0266537176.jpg
+C:\Users\Ivan Lee\Desktop\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/20221103163424_0277602296.jpg
+C:\Users\Ivan Lee\Desktop\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/20221103172656_0294469850.jpg
+C:\Users\Ivan Lee\Desktop\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/20221103181129_0276498392.jpg
+C:\Users\Ivan Lee\Desktop\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/20221103185056_0261512184.jpg
+C:\Users\Ivan Lee\Desktop\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/20221103202440_0295218922.jpg
+C:\Users\Ivan Lee\Desktop\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/20221103230754_0270214632.jpg
+C:\Users\Ivan Lee\Desktop\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/20221104062539_0276160744.jpg
+C:\Users\Ivan Lee\Desktop\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/20221104073347_76775977.jpg
+C:\Users\Ivan Lee\Desktop\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/20221104081142_0301128938.jpg
+C:\Users\Ivan Lee\Desktop\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/20221104084558_0286323434.jpg
+C:\Users\Ivan Lee\Desktop\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/20221104092054_168387633.jpg
+C:\Users\Ivan Lee\Desktop\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/20221104101911_168295906.jpg
+C:\Users\Ivan Lee\Desktop\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/20221104112154_0269738472.jpg
+C:\Users\Ivan Lee\Desktop\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/20221104122840_0272344040.jpg
+C:\Users\Ivan Lee\Desktop\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/20221104133029_0295663066.jpg
+C:\Users\Ivan Lee\Desktop\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/20221104142611_0215750328.jpg
+C:\Users\Ivan Lee\Desktop\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/20221104212620_0269045992.jpg
+C:\Users\Ivan Lee\Desktop\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/20221108114529_0273286632.jpg
+C:\Users\Ivan Lee\Desktop\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/6fc3258e5739ab77e2f939859e409d69_License Plate.jpg
+C:\Users\Ivan Lee\Desktop\AI-TrainData-PscalVOC-and-Yolo-LicensePlate-CharactersRecognition/data/dca9dd125f011305c53662ad2c5701b7_License Plate.jpg
